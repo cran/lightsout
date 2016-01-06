@@ -1,4 +1,4 @@
-1d6b92a1e2b5cfecb710770ecc4efad1 *DESCRIPTION
+85197acd6392e9a5eaa30ae994e44acf *DESCRIPTION
 757560115ad57dee72039d2ecd8d2381 *LICENSE
 ba45be89d80027a7eebf00eab40f9dd9 *NAMESPACE
 d01a5058a2fb4318038ecc0f09709da6 *R/board-attribs.R
@@ -14,7 +14,7 @@ d585f357e83eebb7184ef9dcc63209c6 *R/utils.R
 1867a77b20a1bfff6c31d698c1da844b *build/vignette.rds
 6dd559d1dbae5e775386b7c8657be0f0 *inst/doc/overview.R
 76f4ba762fb979101faf3eccaaa71462 *inst/doc/overview.Rmd
-689a2777e96ac30d35b833e8ecbed257 *inst/doc/overview.html
+b5dd2f4fc42b1f80087c96a435aa41cd *inst/doc/overview.html
 127229a96f34bb2c129e2898ea261a54 *inst/img/shinyapp.png
 c7f2cd808e6ad478729925095f1540ea *inst/shiny/global.R
 f2d4b953017aeda9e949e119fc545e6e *inst/shiny/server.R
