@@ -1,6 +1,6 @@
 Package: lightsout
 Title: Implementation of the 'Lights Out' Puzzle Game
-Version: 0.2.1
+Version: 0.3
 Authors@R: c(
     person("Dean", "Attali", , "daattali@gmail.com", role = c("aut", "cre"))
     )
@@ -23,8 +23,8 @@ LazyData: true
 VignetteBuilder: knitr
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-01-06 15:13:43 UTC; Dean
+Packaged: 2016-07-26 02:55:48 UTC; Dean
 Author: Dean Attali [aut, cre]
 Maintainer: Dean Attali <daattali@gmail.com>
 Repository: CRAN
-Date/Publication: 2016-01-06 17:22:34
+Date/Publication: 2016-07-26 12:09:35
