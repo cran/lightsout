@@ -1,12 +1,12 @@
-4c8799a728ba71cd4880b6963361b5e8 *DESCRIPTION
+80d51dafa2c14e21e5bb326d3ddda43c *DESCRIPTION
 757560115ad57dee72039d2ecd8d2381 *LICENSE
 ba45be89d80027a7eebf00eab40f9dd9 *NAMESPACE
-0b88265ee8de29319c58c818bcda6e37 *NEWS.md
+f4ee7e31dd58a46e369ca06ca9ce0d35 *NEWS.md
 d01a5058a2fb4318038ecc0f09709da6 *R/board-attribs.R
 c5a5b046d32610fc33d076c495a416c3 *R/board.R
 a302b539635fe5602a5f909a09f9e34f *R/ignoreme.R
 53ef637e3830b996ef4e4938f573402e *R/launch.R
-f57077bcdfc9f2563ccb4da3f90fed38 *R/lightsout.R
+36909710e27750e6559681e116ff9e80 *R/lightsout-package.R
 47dba599a0fdd20901f253877c59f90c *R/pipe.R
 1054835a4ff0d9968da0ded968176b16 *R/play.R
 644f38163aeb3ac29848a983332d56c2 *R/solve.R
@@ -33,7 +33,7 @@ cbd318f84b0e4ebc6f457bcb877ee8c3 *man/board_toggle_matrix.Rd
 83f5e6324d5c59e131d67f8f6aa55b6a *man/is_solvable.Rd
 37854db40df8186b1f0461eb40524df6 *man/is_solved.Rd
 f84e470912f4ef01b7cac93005638775 *man/launch.Rd
-ffa9ee8f3c01abffbf667513f11bd8b3 *man/lightsout.Rd
+2ed631382cc07401fe8c611c111bc2c1 *man/lightsout-package.Rd
 0e1f778d135402fdf4849cb74c77c061 *man/new_board.Rd
 e28c32949039674113b842e00b13edd1 *man/play.Rd
 a870c4c0a8728cf6cbe029902f53ab5c *man/print.lightsout.Rd
